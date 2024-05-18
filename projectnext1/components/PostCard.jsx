@@ -1,5 +1,6 @@
 "use client";
 import Link from "next/link";
+import "./postcard.css";
 
 //react client component
 function PostCard({ post }) {
@@ -10,7 +11,6 @@ function PostCard({ post }) {
       </Link>
       <p>{post.body}</p>
       <button onClick={() => alert("click")}>click</button>
-      <hr />
     </div>
   );
 }

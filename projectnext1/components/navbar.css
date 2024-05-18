@@ -1,0 +1,24 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color: #eee5ea;
+    color: #1d2d44;
+    font-size: 1rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+}
+ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+}
+li {
+    list-style: none;
+    margin-left: 5rem;
+}
+

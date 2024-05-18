@@ -1,8 +1,8 @@
 import Link from "next/link";
+import "./navbar.css";
 export default function Navbar() {
   return (
     <div>
-      <h1>Navbar</h1>
       <nav>
         <ul>
           <li>

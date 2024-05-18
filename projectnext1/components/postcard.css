@@ -1,0 +1,39 @@
+div {
+    background-color: #ebe2e7;
+    color: #1d2d44;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+}
+
+h3 {
+    font-size: 1.5rem;
+    text-align: center;
+    margin-top: 0;
+    padding-top: 2rem;
+    color: #0d1321;
+}
+
+p {
+    font-size: 1rem;
+    text-align: center;
+    margin-top: 0;
+    padding-top: 2rem;
+    color: #0d1321;
+}
+
+button {
+    background-color: #e4d2dc;
+    color: #1d2d44;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+    border: none;
+    padding: 0.5rem 1rem;
+    margin-top: 1rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    justify-content: center;
+}
